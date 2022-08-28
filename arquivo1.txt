@@ -1,1 +1,2 @@
 primeiro arquivo dentro do repositório
+Adicionando alteração no arquivo que copiamos para o repositório Github
